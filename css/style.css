@@ -1,0 +1,36 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin: 0 80px;
+}
+
+#header-container {
+    height: 5em;
+    padding: 20px 0;
+    border-bottom: solid 1px rgb(197, 194, 194);
+}
+
+.container-cards {
+   padding-bottom: 20px;
+}
+
+.txt-align-center {
+    text-align: center;
+}
+
+.txt-align-justify {
+    text-align : justify;
+}
+
+.card-title {
+    font-family: 'Titillium Web', sans-serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #40E0D0;
+}
+
+.card {
+    box-shadow:1px 3px 12px 3px rgba(0, 0, 0, .2);
+    margin-top: 30px;
+    padding: 0;
+}
