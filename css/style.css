@@ -1,7 +1,5 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
-    margin: 0 80px;
 }
 
 #header-container {
@@ -14,12 +12,8 @@ body {
    padding-bottom: 20px;
 }
 
-.txt-align-center {
+.content-center {
     text-align: center;
-}
-
-.txt-align-justify {
-    text-align : justify;
 }
 
 .card-title {
